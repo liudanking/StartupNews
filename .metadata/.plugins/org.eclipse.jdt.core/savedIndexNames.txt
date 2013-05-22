@@ -1,0 +1,7 @@
+INDEX VERSION 1.126+C:\Users\liudanking\Documents\GitHub\StartupNews\.metadata\.plugins\org.eclipse.jdt.core
+3997934536.index
+2009358532.index
+1268836818.index
+304354909.index
+3261718812.index
+3063571010.index
